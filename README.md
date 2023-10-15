@@ -1,16 +1,48 @@
-### Hi there 👋
+# Hi there 👋, I'm Otman
 
-<!--
-**otma2677/otma2677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Back-end web developer from France, primarily using EcmaScript ecosystem, and a bit more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started writing lately, you can some more [here](https://otmah.xyz)
+
+<a href="https://twitter.com/otma2677" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge" height="24">
+</a>
+<a href="https://otmah.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white" height="24">
+</a>
+<a href="eiwos.studio@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" height="24">
+</a>
+
+# Interests
+### Programming related
+- Web (Angular, HTML/CSS/JS, back-end)
+- Bots, discord bots, task automation
+- C++, because I hate myself (I want to understand everything at a deeper level)
+
+### Outside of programming
+- Plants, Fishing
+- Novels, Mangas
+- Board games, Card games such as MTG
+
+# Stats
+
+# Tools & Languages
+<div align="center">
+    <img src="./images/icons8-angular-96.png" width="48">
+    <img src="./images/icons8-html-96.png" width="48">
+    <img src="./images/icons8-css-96.png" width="48">
+    <img src="./images/icons8-javascript-96.png" width="48">
+    <img src="./images/icons8-typescript-96.png" width="48">
+    <img src="./images/icons8-node-js-96.png" width="48">
+    <img src="./images/icons8-cpp-96.png" width="48">
+    <br>
+    <img src="./images/icons8-git-96.png" width="48">
+    <img src="./images/icons8-debian-96.png" width="48">
+    <img src="./images/icons8-nginx-96.png" width="48">
+    <img src="./images/icons8-webstorm-96.png" width="48">
+    <img src="./images/icons8-visual-studio-96.png" width="48">
+    <img src="./images/icons8-mysql-96.png" width="48">
+    <img src="./images/icons8-mongodb-96.png" width="48">
+</div>
