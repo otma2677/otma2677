@@ -11,7 +11,7 @@ I started writing lately, you can some more [here](https://otmah.xyz)
 <a href="https://otmah.xyz" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white" height="24">
 </a>
-<a href="eiwos.studio@gmail.com" target="_blank">
+<a href="mailto:eiwos.studio@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" height="24">
 </a>
 
@@ -25,8 +25,6 @@ I started writing lately, you can some more [here](https://otmah.xyz)
 - Plants, Fishing
 - Novels, Mangas
 - Board games, Card games such as MTG
-
-# Stats
 
 # Tools & Languages
 <div align="center">
