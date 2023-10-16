@@ -1,10 +1,4 @@
 # Hi there 👋, I'm Otman
-
-
-Back-end web developer from France, primarily using EcmaScript ecosystem, and a bit more.
-
-I started writing lately, you can read some content [here](https://otmah.xyz)
-
 <a href="https://twitter.com/otma2677" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge" height="24">
 </a>
@@ -15,12 +9,16 @@ I started writing lately, you can read some content [here](https://otmah.xyz)
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" height="24">
 </a>
 
+Aspiring back-end web developer from France, primarily using the EcmaScript ecosystem.
+
+I started writing on my journey lately, you can read some content [here](https://otmah.xyz)
+
 # Interests
 ### Programming related
-- Web (Angular, HTML/CSS/JS, Node.js, PHP)
+- The Web (Angular, HTML/CSS/JS in the browser, Node.js, PHP)
 - SQL (MySQL, SQLite)
 - Bots, discord bots, task automation
-- C++, because I ~~hate myself~~ want to explore what is behind everything.
+- C++/System programming, because ~~I hate myself~~ I want to explore what is behind everything.
 
 ### Outside of programming
 - Plants, Fishing
@@ -29,11 +27,11 @@ I started writing lately, you can read some content [here](https://otmah.xyz)
 
 # Tools & Languages
 <div align="center">
-    <img src="./images/icons8-angular-96.png" width="48">
     <img src="./images/icons8-html-96.png" width="48">
     <img src="./images/icons8-css-96.png" width="48">
     <img src="./images/icons8-javascript-96.png" width="48">
     <img src="./images/icons8-typescript-96.png" width="48">
+    <img src="./images/icons8-angular-96.png" width="48">
     <img src="./images/icons8-node-js-96.png" width="48">
     <img src="./images/icons8-cpp-96.png" width="48">
     <br>
