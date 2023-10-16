@@ -3,7 +3,7 @@
 
 Back-end web developer from France, primarily using EcmaScript ecosystem, and a bit more.
 
-I started writing lately, you can some more [here](https://otmah.xyz)
+I started writing lately, you can read some content [here](https://otmah.xyz)
 
 <a href="https://twitter.com/otma2677" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge" height="24">
