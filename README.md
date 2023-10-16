@@ -43,5 +43,4 @@ I started writing lately, you can read some content [here](https://otmah.xyz)
     <img src="./images/icons8-webstorm-96.png" width="48">
     <img src="./images/icons8-visual-studio-96.png" width="48">
     <img src="./images/icons8-mysql-96.png" width="48">
-    <img src="./images/icons8-mongodb-96.png" width="48">
 </div>
