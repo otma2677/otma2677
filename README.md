@@ -20,7 +20,7 @@ I started writing lately, you can read some content [here](https://otmah.xyz)
 - Web (Angular, HTML/CSS/JS, Node.js, PHP)
 - SQL (MySQL, SQLite)
 - Bots, discord bots, task automation
-- C++, because I hate myself (I want to understand everything at a deeper level)
+- C++, because I ~~hate myself~~ want to explore what is behind everything.
 
 ### Outside of programming
 - Plants, Fishing
