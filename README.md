@@ -48,4 +48,4 @@ I started writing on my journey lately, you can read some content [here](https:/
 ___
 
 - Badges all comes from https://shields.io
-- Tools & Languages all comes from https://icons8.com
+- Tools & Languages icons all comes from https://icons8.com
