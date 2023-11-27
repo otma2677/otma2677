@@ -41,4 +41,11 @@ I started writing on my journey lately, you can read some content [here](https:/
     <img src="./images/icons8-webstorm-96.png" width="48">
     <img src="./images/icons8-visual-studio-96.png" width="48">
     <img src="./images/icons8-mysql-96.png" width="48">
+    <img src="./images/icons8-google-cloud-96.png" width="48">
+    <img src="./images/icons8-google-firebase-96.png" width="48">
 </div>
+
+___
+
+- Badges all comes from https://shields.io
+- Tools & Languages all comes from https://icons8.com
