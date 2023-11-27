@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" height="24">
 </a>
 
-Aspiring back-end web developer from France, primarily using the EcmaScript ecosystem.
+I'm an aspiring back-end web developer and web enthusiast, from France.
+I specialised myself using the EcmaScript ecosystem.
 
 I started writing on my journey lately, you can read some content [here](https://otmah.xyz)
 
