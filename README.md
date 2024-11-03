@@ -1,18 +1,4 @@
 # Hi there 👋, I'm Otman
-<a href="https://twitter.com/otma2677" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge" 
-      height="24"
-      alt="An Icon with the word twitter in it, targeting https://twitter.com/otma2677"
-    >
-</a>
-<a href="https://otmah.xyz" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white" 
-      height="24"
-      alt="An Icon with the word website in it, targeting https://otmah.xyz"
-    >
-</a>
 
 I used to play with PHP, MySQL and C a long time ago, for fun, with friends, at school,
 when games like Travian just started to came out, and I wanted to try to create my own 
