@@ -1,41 +1,16 @@
 # Hi there 👋, I'm Otman
-
-I used to play with PHP, MySQL and C a long time ago, for fun, with friends, at school,
-when games like Travian just started to came out, and I wanted to try to create my own 
-browser games and traditional ones.
-
-Fast forwards now, I decided to do web development as a Job rather than a hobby,
-seeing people transitioning career through ads on the web, on the street, I got inspired.
-
-Up to that point, I tried to do projects around the web, both front-end and 
-back-end, but because I enjoyed mostly working with Node.js & SQL, I lean towards 
-back-end development in that ecosystem. I also used PHP again, but with Symfony 
-& Laravel at the start of the transition, and I also explored a bit C# with 
-.NET Core for console and web app and because I used to play with Unity to make
-games.
-
-I'm now an aspiring back-end web developer focused on EcmaScript, TypeScript, 
-MySQL, SQLite, Fastify, Express, Google cloud / VPS Platforms, NGinx, Git and more, 
-but I also use Angular and Browser technologies. 
-
-I also take enjoyment with C++ discovering low-level concepts of systems, 
-memory, cryptography, web servers, and much more.
+I like programming, video games, books, and much more.
 
 # Interests
-### At the moment
-- Learning C++ and a bit of Zig
-- Trying to understand SQLite and databases concepts under the hood
-- Enhancing my portfolio of projects with projects
-
 ### Programming related
-- Web back-end, Task automation & scraping, Bot, Discord bot
-- JavaScript, TypeScript, C++, Node.js, Deno
-- MySQL, SQLite
-- Security, Cryptography & System programming
+- JS/TS
+- Node.js
+- C++
+- WEB
+- Databases concepts
 
 ### Outside of programming
 - Plants, Fishing, Family activities
-- Entrepreneurship
 - Novels, Mangas, Fantasy such as The witcher, Game of thrones, and more.
 - Board games, card games, strategy games and video games such as MtG, AoE2, Diablo2, and more.
 
